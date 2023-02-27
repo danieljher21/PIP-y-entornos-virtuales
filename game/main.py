@@ -1,5 +1,6 @@
 import random
 
+##### Piedra, Papel o tijera
 
 def choose_options():
   options = ('piedra', 'papel', 'tijera')

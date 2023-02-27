@@ -7,5 +7,6 @@ Para correr este juego debes ejecutar en la linea de comandos la siguiente sente
 cd game
 py main.py
 
+
 ```
 
