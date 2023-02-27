@@ -2,10 +2,10 @@
 
 Para correr este juego debes ejecutar en la linea de comandos la siguiente sentencia:
 
-´´´sh
+```sh
 
 cd game
 py main.py
 
-´´´
+```
 
